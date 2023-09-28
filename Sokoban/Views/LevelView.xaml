@@ -7,6 +7,6 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800" FocusManager.FocusedElement="{Binding ElementName=drawCanvas}">
 
-	<Canvas x:Name="drawCanvas" Background="Bisque" KeyDown="drawCanvas_KeyDown" KeyUp="drawCanvas_KeyUp" Focusable="True" />
+	<Canvas x:Name="drawCanvas" Background="Black" KeyDown="drawCanvas_KeyDown" KeyUp="drawCanvas_KeyUp" Focusable="True" />
 
 </UserControl>
